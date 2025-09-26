@@ -9,17 +9,16 @@
 @media(max-width: 768px) {
 
     body {
-        height: 100vh;
         background: url('../images/bg-mobile.svg') no-repeat;
         background-size: cover;
     }
 
     .bg-container {
-        padding: 50px;
+        padding: 5rem;
     }
 
     .header .logo {
-        margin: 0 auto 80px;
+        margin: 0 auto 8rem;
     }
 
     .hero {
@@ -32,16 +31,16 @@
 
     .hero .hero-content {
         text-align: center;
-        padding-bottom: 100px;
+        padding-bottom: 10rem;
     }
 
     .hero .hero-content h2 {
         font-size: 4rem;
-        margin-top: 5rem;
+        margin-top: 2rem;
     }
 
     .hero .hero-content p {
-        font-size: 2.5rem;
+        font-size: 2.4rem;
         line-height: 1.5;
         max-width: 580px;
         padding-bottom: 20px;
@@ -50,13 +49,10 @@
     .hero .hero-content .btn {
         font-size: 2rem;
         padding: 20px 125px;
-        border-radius: 50px;
     }
 
     .footer {
         justify-content: center;
-        align-items: end;
-        gap: 20px;
     }
 
     .footer a i {
@@ -69,7 +65,7 @@
 @media(max-width: 420px) {
 
     .bg-container {
-        padding: 20px;
+        padding: 2rem;
     }
 
     .header .logo {
@@ -78,7 +74,7 @@
     }
 
     .hero .img-hero img {
-        padding-top: 30px;
+        padding-top: 3rem;
         width: 300px;
     }
 
@@ -89,15 +85,23 @@
 
     .hero .hero-content p {
         font-size: 1.5rem;
-        font-weight: 300;
-        line-height: 2.5rem;
-        margin: 30px 25px;
+        margin: 3rem 2.5rem;
     }
 
     .hero .hero-content .btn {
         font-size: 1.3rem;
-        padding: 12px 80px;
-        border-radius: 30px;
-        transition: 0.3s ease-in-out;
+        padding: 1.2rem 8rem;
+    }
+
+    .footer a i {
+        width: 30px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #FFF;
+        font-size: 1.4rem;
+        border: 1px solid #FFF;
+        border-radius: 100%;
     }
 }
