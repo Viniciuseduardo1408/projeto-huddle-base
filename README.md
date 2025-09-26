@@ -2,18 +2,6 @@
 
 Este é um projeto de uma landing page com uma única seção introdutória, desenvolvido como uma solução para o desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2_v_b2_p). O objetivo foi criar uma página responsiva que se adaptasse a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
-##  Índice
-
-* [Visão Geral](#🚀-visão-geral)
-  * [O Desafio](#o-desafio)
-  * [Links](#links)
-* [Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
-* [Principais Funcionalidades](#✨-principais-funcionalidades)
-* [Estrutura de Arquivos](#📂-estrutura-de-arquivos)
-* [Como Executar o Projeto Localmente](#🛠️-como-executar-o-projeto-localmente)
-* [O que eu aprendi](#🧠-o-que-eu-aprendi)
-* [Autor](#autor)
-
 ## 🚀 Visão Geral
 
 ![Screenshot do Projeto Huddle Landing Page](./src/images/screenshot.gif)
