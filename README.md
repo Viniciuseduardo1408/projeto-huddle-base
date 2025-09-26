@@ -4,7 +4,7 @@ Este é um projeto de uma landing page com uma única seção introdutória, des
 
 ##  Índice
 
-* [Visão Geral](#visão-geral-🚀)
+* [Visão Geral](#visão-geral)
   * [O Desafio](#o-desafio)
   * [Links](#links)
 * [Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
