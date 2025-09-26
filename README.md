@@ -4,14 +4,14 @@ Este é um projeto de uma landing page com uma única seção introdutória, des
 
 ##  Índice
 
-* [Visão Geral](#visão-geral)
+* [🚀 Visão Geral](#🚀-visão-geral)
   * [O Desafio](#o-desafio)
   * [Links](#links)
-* [Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
-* [Principais Funcionalidades](#✨-principais-funcionalidades)
-* [Estrutura de Arquivos](#📂-estrutura-de-arquivos)
-* [Como Executar o Projeto Localmente](#🛠️-como-executar-o-projeto-localmente)
-* [O que eu aprendi](#🧠-o-que-eu-aprendi)
+* [💻 Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
+* [✨ Principais Funcionalidades](#✨-principais-funcionalidades)
+* [📂 Estrutura de Arquivos](#📂-estrutura-de-arquivos)
+* [🛠️ Como Executar o Projeto Localmente](#🛠️-como-executar-o-projeto-localmente)
+* [🧠 O que eu aprendi](#🧠-o-que-eu-aprendi)
 * [Autor](#autor)
 
 ## 🚀 Visão Geral
